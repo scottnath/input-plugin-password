@@ -1,4 +1,5 @@
-Password Input Plugin [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+Password Input Plugin [![Build Status](https://travis-ci.org/punchcard-cms/input-plugin-password.svg?branch=master)](https://travis-ci.org/punchcard-cms/input-plugin-password) 
+[![Coverage Status](https://coveralls.io/repos/github/punchcard-cms/input-plugin-password/badge.svg?branch=master)](https://coveralls.io/github/punchcard-cms/input-plugin-password?branch=master) [![NSP Status](https://nodesecurity.io/orgs/punchcard-cms/projects/58c74ae5-ad9f-4e40-9486-5287e00c4bed/badge)](https://nodesecurity.io/orgs/punchcard-cms/projects/58c74ae5-ad9f-4e40-9486-5287e00c4bed)
 ---
 
 A simple input plugin for a password field
@@ -6,12 +7,3 @@ A simple input plugin for a password field
 ## License
 
 Apache-2.0
-
-[npm-image]: https://badge.fury.io/js/input-plugin-password.svg
-[npm-url]: https://npmjs.org/package/input-plugin-password
-[travis-image]: https://travis-ci.org/punchcard-cms/input-plugin-password.svg
-[travis-url]: https://travis-ci.org/punchcard-cms/input-plugin-password
-[daviddm-image]: https://david-dm.org/punchcard-cms/input-plugin-password.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/punchcard-cms/input-plugin-password
-[coveralls-image]: https://coveralls.io/repos/punchcard-cms/input-plugin-password/badge.svg
-[coveralls-url]: https://coveralls.io/r/punchcard-cms/input-plugin-password

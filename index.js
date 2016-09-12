@@ -27,9 +27,6 @@ module.exports = {
       label: 'Please type your password',
       placeholder: '',
       type: 'password',
-      settings: {
-        empty: true,
-      },
     },
   },
   html: '<label for="{{password.id}}">{{password.label}}</label><input type="{{password.type}}" id="{{password.id}}" name="{{password.name}}" value="{{password.value}}" placeholder="{{password.placeholder}}" />',
